@@ -14,7 +14,7 @@ export const Product = styled.View`
   flex: 1;
   background: #fff;
   padding: 10px;
-  margin: 15px;
+  margin: 10px;
   border-radius: 4px;
   width: 220px;
   height: 380px;

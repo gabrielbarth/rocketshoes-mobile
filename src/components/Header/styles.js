@@ -26,4 +26,23 @@ export const IconContainer = styled.TouchableOpacity`
   flex: 1;
   align-items: flex-end;
   justify-content: flex-end;
+  flex-direction: row;
+  margin-right: 5px;
+`;
+
+export const AmountContainer = styled.View`
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  background: #7159c1;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: -6px;
+  bottom: 12px;
+`;
+
+export const AmountText = styled.Text`
+  font-size: 10px;
+  color: #fff;
 `;
