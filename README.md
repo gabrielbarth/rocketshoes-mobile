@@ -2,13 +2,15 @@
 :us: 
 <br>
 Mobile app (android and iOS) to simulate shoes ecommerce in two screens: Home and Cart. Developed during <a href="https://rocketseat.com.br/gostack">GoStack10 bootcamp</a> seventh challange.
-This challange basically consisted in transform the <a href="https://github.com/gabrielbarth/web-rocketshoes">web app</a> to react native app
+This challange basically consisted in transform the <a href="https://github.com/gabrielbarth/web-rocketshoes">web app</a> to react native app. <br>
+This challange allowed clarify many concepts about flux architecture, especially still using class components and also without the use of react hooks.
 
 <br>
 <span>&#x1f1e7;&#x1f1f7;</span>
 <br>
 Aplitivo mobile para simular um ecommerce de tênis em duas telas: Home e Carrinho. Desenvolvido durante o desafio 07 do <a href="https://rocketseat.com.br/gostack">bootcamp GoStack10</a>.
-Este desafio consistiu basicamente em transformar a <a href="https://github.com/gabrielbarth/web-rocketshoes">aplicação web</a> que foi desenvolvida em aplicativo react-native.
+Este desafio consistiu basicamente em transformar a <a href="https://github.com/gabrielbarth/web-rocketshoes">aplicação web</a> que foi desenvolvida em aplicativo react-native.<br>
+O desenvolvimento desse app permitiu esclarecer muitos conceitos sobre a arquitetura flux, sobretudo ainda utilizando componentes de classe e também sem a utilização dos react hooks. 
 
 ##  :mag_right: Main points covered on project / Principais pontos
 :us: 
