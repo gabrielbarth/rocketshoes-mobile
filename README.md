@@ -3,14 +3,20 @@
 <br>
 Mobile app (android and iOS) to simulate shoes ecommerce in two screens: Home and Cart. Developed during <a href="https://rocketseat.com.br/gostack">GoStack10 bootcamp</a> seventh challange.
 This challange basically consisted in transform the <a href="https://github.com/gabrielbarth/web-rocketshoes">web app</a> to react native app. <br>
-This challange allowed clarify many concepts about flux architecture, especially still using class components and also without the use of react hooks.
+This challange allowed clarify many concepts about flux architecture, especially still using class components and also without the usage of react hooks.
+
+**[UPDATING TO CHALLANGE 08]:** From the commit <a href="https://github.com/gabrielbarth/rocketShoesApp/commit/96d1c2c36e9192122e65e9a07aea23ef6fc77da4">refactoring components to react-hooks</a> this app started to use react-hooks.
 
 <br>
 <span>&#x1f1e7;&#x1f1f7;</span>
 <br>
-Aplitivo mobile para simular um ecommerce de tênis em duas telas: Home e Carrinho. Desenvolvido durante o desafio 07 do <a href="https://rocketseat.com.br/gostack">bootcamp GoStack10</a>.
-Este desafio consistiu basicamente em transformar a <a href="https://github.com/gabrielbarth/web-rocketshoes">aplicação web</a> que foi desenvolvida em aplicativo react-native.<br>
+Aplicativo mobile para simular um ecommerce de tênis em duas telas: Home e Carrinho. Desenvolvido durante o desafio 07 do <a href="https://rocketseat.com.br/gostack">bootcamp GoStack10</a>.
+Este desafio consistiu basicamente em transformar a <a href="https://github.com/gabrielbarth/web-rocketshoes">aplicação web</a> que foi desenvolvida em aplicativo react-native.
+
 O desenvolvimento desse app permitiu esclarecer muitos conceitos sobre a arquitetura flux, sobretudo ainda utilizando componentes de classe e também sem a utilização dos react hooks. 
+
+
+**[ATUALIZAÇÃO DO DESAFIO 08]:** A partir do commit <a href="https://github.com/gabrielbarth/rocketShoesApp/commit/96d1c2c36e9192122e65e9a07aea23ef6fc77da4">refactoring components to react-hooks</a> este app passou a usar react-hooks.
 
 ##  :mag_right: Main points covered on project / Principais pontos
 :us: 
@@ -69,7 +75,6 @@ O desenvolvimento desse app permitiu esclarecer muitos conceitos sobre a arquite
 
 
 
-
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
@@ -112,10 +117,39 @@ Utilize ESLint, Prettier, EditorConfig, React Navigation e todas outras ferramen
 
 O layout do projeto está em anexo com esse desafio. O arquivo `.sketch` (no diretório `.github`) pode ser aberto no <a href="https://www.figma.com/file/DekiZvcD3T1zHQUHwGDqHD/layout?node-id=0%3A202">Figma,</a> que é uma ferramenta de prototipação online.
 
+<h3 align="center">
+  Desafio 8: Utilizando React Hooks
+</h3>
+
+<blockquote align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-08?color=%2304D361">
+
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-08/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-08?style=social">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+## :rocket: Sobre o desafio
+
+Nesse desafio você deve converter a aplicação que você desenvolveu no desafio do módulo anterior para utilização de React Hooks.
 
 ## 📅 Entrega
 
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do [código do desafio aqui](https://github.com/Rocketseat/bootcamp-gostack-desafio-07). Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do [código do desafio aqui](https://github.com/Rocketseat/bootcamp-gostack-desafio-08). Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 ## :memo: Licença
 
@@ -124,4 +158,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
