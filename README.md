@@ -1,4 +1,6 @@
-# rocketShoesApp <div align="start"> <img src="app-images/black-logo.png" width="280" />  </div>
+<h1 align="center">
+  <img src="app-images/black-logo.png" width="320" /> 
+</h1>
 :us: 
 <br>
 Mobile app (android and iOS) to simulate shoes ecommerce in two screens: Home and Cart. Developed during <a href="https://rocketseat.com.br/gostack">GoStack10 bootcamp</a> seventh challange.
